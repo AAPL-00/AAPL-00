@@ -22,7 +22,7 @@ My current focus: mastering backend design from data modeling to API layer, whil
 - ⚡ **FastAPI** – For modern, async-friendly, high-performance APIs.
 - 🐘 **PostgreSQL** – My preferred RDBMS for production use.
 - 🐧 **Debian GNU/Linux** – Stability and control over my environment.
-- ✍️ **Zed** and **Neovim** – Depending on the day and the project.
+- ✍️ **Zed** and **VScode** – Depending on the day and the project.
 
 ---
 
