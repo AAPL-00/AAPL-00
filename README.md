@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy un desarrollador en formación
+# 👋 Hey there! I'm a backend-focused developer in progress
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -7,37 +7,35 @@
 
 ---
 
-### 🛠 ¿Qué estoy construyendo?
+### 🛠 What I’m working on
 
-Actualmente estoy profundizando en el desarrollo de APIs REST utilizando **Django REST Framework** y **FastAPI**, combinando teoría sólida con práctica constante. Me interesa escribir código que no solo funcione, sino que sea claro, mantenible y expresivo.
+Right now, I’m deepening my knowledge in building REST APIs using **Django REST Framework** and **FastAPI**. I care about solid architecture, pragmatic design, and clean, expressive code that’s not just functional but readable and thoughtful.
 
-Estoy en proceso de comprender a fondo los **principios del backend**, desde el diseño de modelos hasta la exposición de servicios, sin perder de vista la experiencia del desarrollador y la eficiencia del entorno.
-
----
-
-### 💻 Tecnologías y herramientas que uso
-
-- 🐍 **Python**: Mi lenguaje principal y mi zona de confort.
-- ⚙️ **Django / DRF**: Para construir sistemas robustos de forma estructurada.
-- ⚡ **FastAPI**: Para APIs livianas, rápidas y modernas.
-- 🐘 **PostgreSQL**: Mi base de datos favorita para producción.
-- 🐧 **Debian GNU/Linux**: El sistema operativo que me acompaña, por filosofía y estabilidad.
-- 🧠 Zed y VScode como editores, según el día y el flujo.
+My current focus: mastering backend design from data modeling to API layer, while keeping performance, maintainability, and real-world constraints in mind.
 
 ---
 
-### 📚 En constante aprendizaje
+### 💻 Tech I work with
 
-Mi enfoque no es solo técnico: intento integrar lo que aprendo con cómo pienso y vivo. Cada herramienta que uso me importa no solo por lo que hace, sino por cómo me hace pensar.
-
----
-
-
-### 📫 Contacto
-
-Podés contactarme por GitHub o, si lo necesitás, por correo (lo podés ver en la parte de contacto del perfil).
+- 🐍 **Python** – My go-to language for its clarity and power.
+- ⚙️ **Django / DRF** – To build structured, reliable systems.
+- ⚡ **FastAPI** – For modern, async-friendly, high-performance APIs.
+- 🐘 **PostgreSQL** – My preferred RDBMS for production use.
+- 🐧 **Debian GNU/Linux** – Stability and control over my environment.
+- ✍️ **Zed** and **Neovim** – Depending on the day and the project.
 
 ---
 
-> 🌀 *"No corro para llegar antes. Corro para no quedarme dormido en lo que ya conozco."*
+### 🧠 Learning process
 
+I’m not just learning tools—I’m reshaping how I think about systems, structure, and collaboration. I believe that building software is also about building clarity of thought. Every line of code is a decision, and I try to make mine conscious.
+
+---
+
+### 🤝 Let’s connect
+
+I’m open to collaborations with people who value simplicity, purpose, and learning together. You don’t need the latest buzzwords to write great software—just care and craft.
+
+---
+
+> 🌀 *"I don’t write code to chase trends. I write to stay awake in a world that keeps automating its own numbness."*
