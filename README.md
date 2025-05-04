@@ -39,7 +39,3 @@ I’m open to collaborations with people who value simplicity, purpose, and lear
 ---
 
 > 🌀 *"I don’t write code to chase trends. I write to stay awake in a world that keeps automating its own numbness."*
-
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAPL-00&show_icons=true&theme=radical)
-
